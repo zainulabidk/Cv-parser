@@ -1,0 +1,5 @@
+{
+  "name": "AI Resume Parser",
+  "description": "An application that allows users to upload their resume, uses AI to parse the details, and pre-fills a form with the extracted information for review and editing.",
+  "requestFramePermissions": []
+}
